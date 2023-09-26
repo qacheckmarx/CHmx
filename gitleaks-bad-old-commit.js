@@ -1,1 +1,1 @@
-const var1='value'
+//const var1='value'
